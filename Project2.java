@@ -20,8 +20,8 @@ public class Project2 {
         final double TAX = 1.08;
         final int PARKING = 30; //cost of parking
 
-        System.out.println("**Welcome to the Big 12 Men's Baseketball Tournament App**");
-        System.out.println("\tMarch 9-12, 2022 at the Sprint Center in Kansas City!");
+        System.out.println("**Welcome to the Big 12 Men's Basketball Tournament App**");
+        System.out.println("  March 9-12, 2022 at the Sprint Center in Kansas City!");
         System.out.println();
 
         System.out.println("Please select from the following categories: ");
