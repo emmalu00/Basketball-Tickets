@@ -1,2 +1,2 @@
 # Basketball-Tickets
-Simple software application for purchasing basketball tickets
+This program displays a menu and instructs the user to enter the category of seats they want to purchase for the tournament. The categories are numbered as follows: 1) Student 2) Alumni 3) Faculty & Staff 4) Military or 5) General Public. Once the user has entered a valid category, the user will be asked to enter the amount of tickets they want to purchase and if they want to purchase parking. Ticket prices are $100 for the General Public. Alumni get a 10% discount, Faculty & Staff get a 15% discount, Military get a 20% discount, and students get tickets for half-price. 8% tax is added on the total after discount but before parking is added.
